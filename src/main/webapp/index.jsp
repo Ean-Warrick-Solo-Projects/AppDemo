@@ -10,5 +10,6 @@
 <a href="hello-servlet">Hello Servlet</a>
 </br>
 <a href="test.html">Test Link</a>
+<a href="javascript_assignment.html">Lab2</a>
 </body>
 </html>
